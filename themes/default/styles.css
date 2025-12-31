@@ -14,11 +14,14 @@ body {
   background-color: #ffffff;
   color: #000000;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.75);
-  display: block; /* no flex centering */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
   min-height: 100vh;
   cursor: default;
   text-align: center;
-  padding: 40px 0; /* optional consistent spacing */
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2, .name {
@@ -165,11 +168,6 @@ a {
   padding: 2em;
   border-radius: 16px;
   box-sizing: border-box;
-}
-
-.overlay * {
-  margin-left: 0;
-  margin-right: 0;
 }
 
 /* Dark mode */

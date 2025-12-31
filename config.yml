@@ -115,7 +115,10 @@ socials:
 
 # Footer text
 footer: >
-  You have reached the bottom of the page.
+    <div style="margin-top:2em;text-align:center">
+        <h3>Test Section</h3>
+        <p>Is the footer Markdown-aware?</p>
+    </div>
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)

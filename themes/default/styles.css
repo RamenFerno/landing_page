@@ -67,7 +67,7 @@ a:hover {
   font-size: 16px;
   margin-bottom: 30px;
   line-height: 1.6;
-  color: #000000;
+  color: #00FFFF;
 }
 
 .links {
@@ -98,7 +98,7 @@ a:hover {
 .footer {
   margin-top: 40px;
   font-size: 14px;
-  color: #0C875A;
+  color: #00FFFF;
 }
 
 .button-container {
@@ -139,7 +139,7 @@ a:hover {
   cursor: pointer;
   transition: transform 0.2s;
   background: none;
-  color: black;
+  color: #0C875A;
 }
 
 .icon-button i {

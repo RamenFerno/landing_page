@@ -69,22 +69,8 @@ links:
       title: "Emberpot Discord Server"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-twitter"
-      text: "Twitter <span class='link-button-text'>(🐥)</span>"
-      url: "https://twitter.com/@ramenferno"
-      alt: "RamenFerno Twitter Page"
-      title: "RamenFerno Twitter Page"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-bluesky"
-      text: "Bluesky"
-      url: "https://bsky.app/profile/ramenferno.com"
-      alt: "RamenFerno Bluesky Page"
-      title: "RamenFerno Bluesky Page"
-      target: "_blank"
-  - link:
       icon: "fa-solid fa-heart"
-      text: "VGen"
+      text: "VSona <span class='link-button-text'>(Submit Fan Art!)</span>"
       url: "https://vsona.co/ferno"
       alt: "Ferno VSona Page"
       title: "RamenFerno VSona Page"
@@ -110,6 +96,18 @@ socials:
       url: "https://github.com/RamenFerno"
       title: "RamenFerno GitHub Page"
       alt: "RamenFerno GitHub Page"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-twitter"
+      url: "https://twitter.com/@ramenferno"
+      alt: "RamenFerno Twitter Page"
+      title: "RamenFerno Twitter Page"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/ramenferno.com"
+      alt: "RamenFerno Bluesky Page"
+      title: "RamenFerno Bluesky Page"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"

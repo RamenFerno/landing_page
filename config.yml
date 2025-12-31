@@ -27,17 +27,18 @@ name: "RamenFerno🍜🔥"
 # Tagline section text
 tagline: >-
     VTuber, ramen chef, and fire hazard for your mind. I stream obscure indie games, blast wild tunes, and get possessed live by a fire daemon named Cal. The broth is boiling. All that's left is for you to join the other Embers!
+        </p>
+            
+        <hr style="opacity:0.2;margin:2em 0;">
         
-            ---
-        
-            <div style="margin-top:2em;text-align:center;">
-                <iframe
-                    src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
-                    height="300"
-                    width="100%"
-                    allowfullscreen>
-                </iframe>
-            </div>
+        <div style="margin-top:2em;text-align:center;">
+            <iframe
+                src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
+                height="300"
+                width="100%"
+                allowfullscreen>
+            </iframe>
+        </div>
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -127,34 +128,34 @@ socials:
 # Footer text
 footer: |
     <div style="margin-top:2em;text-align:center">
-        <h3><b>Art Credits</b></h3>
+        <h3><b>Credits</b></h3>
         <p>
-            <a href="https://vgen.co/naraaastudio" target="_blank">Naraaa</a><br>
+            <a href="https://vgen.co/naraaastudio" target="_blank"><u>Naraaa</u></a><br>
             <a href="https://vgen.co/naraaastudio/portfolio/showcase/ramenferno-s-live2d-model/43047066-5386-49c3-8058-f45494d04ff1" target="_blank">Ferno model</a><br>
             Emberpot model
-          </p>
-        
-          <p>
-            <a href="https://vgen.co/patheaple" target="_blank">Patt</a><br>
+        </p>
+        <hr style="opacity:0.2;margin:2em 0;">
+        <p>
+            <a href="https://vgen.co/patheaple" target="_blank"><u>Patt</u></a><br>
             <em>Signal Flare</em> cover art<br>
             <a href="https://vgen.co/patheaple/product/vtuber-base-body-model-rendered-not-rigged-/91ac2484-fa75-494f-8add-6670d099566f" target="_blank">VTuber Base</a> (used for concept art)
-          </p>
-        
-          <p>
-            <a href="https://vgen.co/Eruru" target="_blank">Eruru</a><br>
+        </p>
+        <hr style="opacity:0.2;margin:2em 0;">
+        <p>
+            <a href="https://vgen.co/Eruru" target="_blank"><u>Eruru</u></a><br>
             <a href="https://vgen.co/Eruru/service/neon-sign-signature-watermark/a491f9ee-b519-4be5-8f86-2da7253b54ac" target="_blank">Flaming Bowl logo</a>
-          </p>
-        
-          <p>
-            <a href="https://www.etsy.com/shop/milaeshop" target="_blank">milaeshop</a><br>
+        </p>
+        <hr style="opacity:0.2;margin:2em 0;">
+        <p>
+            <a href="https://www.etsy.com/shop/milaeshop" target="_blank"><u>milaeshop</u></a><br>
             <a href="https://www.etsy.com/listing/4391673194/glowy-chat-widget-horizontal-and" target="_blank">Glowy chat widget</a>
-          </p>
-        
-          <p>
-            <a href="https://commons.wikimedia.org/wiki/User:Shisma" target="_blank">Shisma</a><br>
+        </p>
+        <hr style="opacity:0.2;margin:2em 0;">
+        <p>
+            <a href="https://commons.wikimedia.org/wiki/User:Shisma" target="_blank"><u>Shisma</u></a><br>
             <a href="https://commons.wikimedia.org/wiki/File:Japanese_Wave_Pattern.svg" target="_blank">Japanese Wave Pattern</a>
             (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">License</a>)
-          </p>
+        </p>
     </div>
 
 # Footer copyright message

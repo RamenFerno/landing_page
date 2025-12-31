@@ -25,15 +25,19 @@ avatar: "./images/profile.jpeg"
 name: "RamenFerno🍜🔥"
 
 # Tagline section text
-tagline: >-
+tagline: >
     VTuber, ramen chef, and fire hazard for your mind. I stream obscure indie games, blast wild tunes, and get possessed live by a fire daemon named Cal. The broth is boiling. All that's left is for you to join the other Embers!
-    
-    <iframe
-        src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
-        height="300"
-        width="100%"
-        allowfullscreen>
-    </iframe>
+
+---
+
+    <div style="margin-top:2em;text-align:center;">
+        <iframe
+            src="https://player.twitch.tv/?channel=ramenferno&parent=www.ramenferno.com"
+            height="300"
+            width="100%"
+            allowfullscreen>
+        </iframe>
+    </div>
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -121,9 +125,10 @@ socials:
       target: "_blank"
 
 # Footer text
-footer: >
+footer: |
     <div style="margin-top:2em;text-align:center">
         <h3><b>Art Credits</b></h3>
+        
         [Naraaa](https://vgen.co/naraaastudio)
         [Ferno model](https://vgen.co/naraaastudio/portfolio/showcase/ramenferno-s-live2d-model/43047066-5386-49c3-8058-f45494d04ff1)
         Emberpot model
@@ -140,6 +145,7 @@ footer: >
         
         [Shisma](https://commons.wikimedia.org/wiki/User:Shisma)
         [Japanese Wave Pattern](https://commons.wikimedia.org/wiki/File:Japanese_Wave_Pattern.svg) ([License](https://creativecommons.org/licenses/by-sa/4.0/))
+        
     </div>
 
 # Footer copyright message

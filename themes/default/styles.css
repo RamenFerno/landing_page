@@ -12,13 +12,11 @@ body {
   background-color: #ffffff;
   color: #000000;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.75);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: block; /* no flex centering */
   min-height: 100vh;
   cursor: default;
   text-align: center;
-  padding: 20px 0 20px 0;
+  padding: 40px 0; /* optional consistent spacing */
 }
 
 h1, h2, .name {
@@ -158,7 +156,7 @@ a {
 .overlay {
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
-  width: 100%;
+  width: 90%;
   max-width: 640px;
   margin: 0 auto;
   padding: 2em;

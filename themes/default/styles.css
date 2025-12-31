@@ -155,6 +155,15 @@ a {
   font-size: 12px;
 }
 
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6); /* transparent black layer */
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 2em;
+  border-radius: 16px;
+  backdrop-filter: blur(3px);
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {

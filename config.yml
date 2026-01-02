@@ -128,7 +128,6 @@ playlist: >
 # Footer text
 footer: |
     <div style="margin-top:2em;text-align:center">
-        <h1><b>Credits</b></h1><br>
         <h2><b>Art</b></h2>
         <p>
             <h3><a href="https://vgen.co/naraaastudio" target="_blank"><u><b>Naraaa</b></u></a></h3>
